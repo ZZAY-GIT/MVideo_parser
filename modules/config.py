@@ -107,4 +107,4 @@ class Links:
     prices = "https://www.mvideo.ru/bff/products/prices"
 
 
-API_TOKEN = '5994888500:AAGChfx3tSypR7AravHOCXY0GcaDchC7v3g'
+API_TOKEN = 'Your API Key'
