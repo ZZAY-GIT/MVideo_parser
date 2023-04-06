@@ -67,11 +67,6 @@ def delete_InlineKeyboard():
     return keyboard
 
 
-def delete_Keyboard():
-    keyboard = types.ReplyKeyboardMarkup.clean
-    return keyboard
-
-
 # обработка команды /start
 @dp.message_handler(commands=['start'], state=None)
 async def start_command(message: types.Message, state: FSMContext):
