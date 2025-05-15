@@ -107,7 +107,7 @@ class Links:
     prices = "https://www.mvideo.ru/bff/products/prices"
 
 
-API_TOKEN = '6200860626:AAH2i0Zytqg5LyMwwBiV6qpB7TzhbPDyj2A'
+API_TOKEN = 'Your API Key'
 
 pages = [
     {
@@ -137,11 +137,3 @@ pages = [
     }
 ]
 
-
-class Links:
-    listing = "https://www.mvideo.ru/bff/products/listing"  # for get request
-    list = "https://www.mvideo.ru/bff/product-details/list"  # for post request
-    prices = "https://www.mvideo.ru/bff/products/prices"
-
-
-API_TOKEN = 'Your API Key'
